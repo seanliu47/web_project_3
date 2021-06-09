@@ -1,0 +1,5 @@
+.languages {
+  display: flex;
+  margin: 0;
+  list-style-type: none;
+}

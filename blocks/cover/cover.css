@@ -1,0 +1,13 @@
+.cover {
+  height: 740px;
+  background-image: url(../../images/sprint-3-images-en/cover-route-66.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  margin-bottom: 92px;
+  position: relative;
+}
+.cover:hover .cover__overlay {
+  opacity: 0.8;
+}
