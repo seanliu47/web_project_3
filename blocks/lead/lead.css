@@ -3,3 +3,8 @@
   height: 1005px;
   margin: 136px 148px 0 148px;
 }
+@media screen and (max-width: 320px) {
+  .lead {
+    max-width: 320px;
+  }
+}

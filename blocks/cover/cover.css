@@ -5,9 +5,13 @@
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
-  margin-bottom: 92px;
   position: relative;
 }
 .cover:hover .cover__overlay {
   opacity: 0.8;
+}
+@media screen and (max-width: 320px) {
+  .cover {
+    max-width: 320px;
+  }
 }

@@ -6,3 +6,8 @@
   grid-template-rows: repeat(3, 1fr);
   margin: 0 48px 92px 48px;
 }
+@media screen and (max-width: 288px) {
+  .photo-grid {
+    max-width: 288px;
+  }
+}

@@ -2,3 +2,8 @@
   width: 690px;
   height: 569px;
 }
+@media screen and (max-width: 288px) {
+  .intro {
+    max-width: 288px;
+  }
+}
