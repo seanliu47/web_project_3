@@ -1,4 +1,4 @@
-@media screen and (max-width: 320x) {
+@media screen and (max-width: 320xp) {
   .places {
     max-width: 320px;
   }
