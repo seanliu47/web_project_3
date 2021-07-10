@@ -4,4 +4,5 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   padding: 0 148px 80px 148px;
+  gap: 40px;
 }
