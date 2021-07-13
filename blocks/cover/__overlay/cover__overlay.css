@@ -10,6 +10,7 @@
   transition: opacity 300ms;
   background-color: #2a2c2f;
 }
-.cover__overlay:hover {
+
+.cover:hover .cover__overlay {
   opacity: 0.8;
 }

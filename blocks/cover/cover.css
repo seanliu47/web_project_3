@@ -1,5 +1,5 @@
 .cover {
-  height: 740px;
+  min-height: 740px;
   background-image: url(../../images/sprint-3-images-en/cover-route-66.jpg);
   background-position: center;
   background-repeat: no-repeat;
@@ -7,9 +7,7 @@
   display: flex;
   position: relative;
 }
-.cover:hover .cover__overlay {
-  opacity: 0.8;
-}
+
 @media screen and (max-width: 320px) {
   .cover {
     max-width: 320px;
