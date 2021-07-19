@@ -1,6 +1,6 @@
 .cover__inner {
   margin: auto;
   text-align: center;
-  z-index: 1;
+  position: relative;
   color: #fff;
 }

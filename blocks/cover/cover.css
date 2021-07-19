@@ -1,5 +1,6 @@
 .cover {
   min-height: 740px;
+  align-items: center;
   background-image: url(../../images/sprint-3-images-en/cover-route-66.jpg);
   background-position: center;
   background-repeat: no-repeat;
