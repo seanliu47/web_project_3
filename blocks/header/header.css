@@ -3,7 +3,6 @@
   align-items: flex-end;
   justify-content: space-between;
   max-width: 984px;
-  margin: 0 148px 0 148px;
 }
 @media screen and (max-width: 320px) {
   .header {

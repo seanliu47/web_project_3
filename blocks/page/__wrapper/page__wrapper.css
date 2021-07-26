@@ -1,9 +1,16 @@
 .page__wrapper {
-  max-width: 1280px;
+  max-width: calc(100% - 96px);
   margin: auto;
 }
+
+@media screen and (max-width: 768px) {
+  .page__wrapper {
+    max-width: 100%;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .page__wrapper {
-    max-width: 320px;
+    max-width: calc(100% - 32px);
   }
 }
