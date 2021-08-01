@@ -1,5 +1,5 @@
 .page__wrapper {
-  max-width: calc(100% - 96px);
+  max-width: 100%;
   margin: auto;
 }
 
