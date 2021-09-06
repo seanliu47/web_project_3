@@ -1,5 +1,6 @@
 .page {
   background-color: #2a2c2f;
+  max-width: calc(100% - 96px);
   font-family: "Inter", sans-serif;
   color: #ffffff;
   margin: auto;

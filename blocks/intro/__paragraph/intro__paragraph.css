@@ -9,3 +9,15 @@
   color: #ffffff;
   margin-left: 148px;
 }
+
+@media screen and (max-width:1024px){
+  .intro__paragraph{
+    margin-left: 48px; 
+  }
+}
+@media screen and (max-width: 768px){
+  .intro__paragraph{
+    margin-left: 24px; 
+  }
+  
+}
