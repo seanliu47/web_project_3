@@ -3,11 +3,6 @@
   margin: auto;
 }
 
-@media screen and (max-width: 768px) {
-  .page__wrapper {
-    max-width: 100%;
-  }
-}
 
 @media screen and (max-width: 320px) {
   .page__wrapper {
