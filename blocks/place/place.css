@@ -17,3 +17,8 @@
     gap:32px;
   }
 }
+@media screen and (max-width: 768px) {
+  .place {
+    margin-bottom: 72px;
+  }
+}

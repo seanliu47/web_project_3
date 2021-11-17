@@ -8,10 +8,16 @@
 @media screen and (max-width:320px) {
   .header {
     max-width: 288px;
+    margin:20px 16px 0 16px 50px;
   }
 }
 @media screen and (max-width:1024px) {
   .header {
     max-width: 928px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .header{
+    max-width: 720px;
   }
 }

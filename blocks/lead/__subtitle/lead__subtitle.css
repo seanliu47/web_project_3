@@ -5,10 +5,7 @@
   font-weight: normal;
   font-size: 30px;
   line-height: 36px;
-  margin-top: 32px;
-  margin-right: auto;
-  margin-bottom: 64px;
-  margin-left: auto;
+  margin:32px auto 64px auto;
   text-align: center;
   color: #ffffff;
 }
@@ -16,5 +13,10 @@
   .lead__subtitle {
     font-size: 16px;
     line-height: 20px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .lead__subtitle {
+   margin: 0 16px 40px 16px;
   }
 }
